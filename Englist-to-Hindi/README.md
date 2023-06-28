@@ -2,7 +2,7 @@
 
 This project is an implementation of an Encoder-Decoder architecture for English to Hindi translation using Neural Networks. The implementation is done using Keras, TensorFlow, NumPy, and Pandas.
 
-## Overview:
+## Overview
 
 The Encoder-Decoder architecture is a popular technique for sequence-to-sequence learning. In this project, we have used a recurrent neural network (RNN) and LSTM as the encoder and decoder.
 

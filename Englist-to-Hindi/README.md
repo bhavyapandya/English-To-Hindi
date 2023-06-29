@@ -30,4 +30,4 @@ Here are some examples of English sentences and their corresponding Hindi transl
 | will you sing me a beatles song  | तुम मेरे लिए एक बीटल्स का गाना गा सकते हो क्या |
 
 
-
+## Author

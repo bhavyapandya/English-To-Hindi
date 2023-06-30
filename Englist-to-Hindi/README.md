@@ -31,3 +31,5 @@ Here are some examples of English sentences and their corresponding Hindi transl
 
 
 ## Author
+
+Bhavya Pandya

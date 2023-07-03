@@ -8,7 +8,7 @@ The Encoder-Decoder architecture is a popular technique for sequence-to-sequence
 
 The training data for the model is a dataset of English sentences and their corresponding Hindi translations. The model is trained on this data to learn the mapping between the two languages.
 
-The final validation accuracy of the model is around 74 percent.
+The final validation accuracy of the model is around 74%.
 
 ## Requirements
 

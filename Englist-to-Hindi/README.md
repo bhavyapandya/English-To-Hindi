@@ -15,7 +15,7 @@ The final validation accuracy of the model is around 74%.
 To run this project, you will need the following software:
 
 - Python 3.6 or later
-- TensorFlow 2.0 or Later
+- TensorFlow 2.0 or later
 - Keras
 - NumPy
 - Pandas

@@ -1,4 +1,4 @@
-# English to Hindi Translator
+# English to Hindi Translation
 
 This project is an implementation of an Encoder-Decoder architecture for English to Hindi translation using Neural Networks. The implementation is done using Keras, TensorFlow, NumPy, and Pandas.
 
